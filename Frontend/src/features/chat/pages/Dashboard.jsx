@@ -64,7 +64,7 @@ const Dashboard = () => {
 
         <div className="p-4 border-b border-neutral-700 flex justify-between items-center">
 
-          <h1 className="text-xl font-bold">Chat-Io</h1>
+          <h1 className="text-xl font-bold">ChatIo — AI Chat Assistant</h1>
 
           {/* Close button mobile */}
           <button
